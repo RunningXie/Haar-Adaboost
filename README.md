@@ -1,4 +1,5 @@
 **基于Haar特征值的Adaboost人脸识别**
+
 可以直接使用：python faceDetection.py someImage.pgm --show=True --save=False -- saveInfo=False运行
 
 ### 文件描述:
